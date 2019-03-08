@@ -1,0 +1,1 @@
+https://techdocs.altium.com/display/SCRT/Script+Examples+Reference
