@@ -1,0 +1,42 @@
+Useful settings for Altium Designer version 16.
+
+Footprint/Schematic source:
+https://designcontent.live.altium.com/
+
+Default altium home directory specified during install:
+	ALTIUM_HOME = (C:\Users\<username>\Documents\Altium)
+
+System -> Default Locations:
+	Document Path: ALTIUM_HOME
+	Library Path: ALTIUM_HOME\AD16\Library
+
+System -> File Types
+	Uncheck all "CODE" and "VHDL" associations.
+
+System -> Installation
+	Set desired update frequency
+
+System -> Product Improvement
+	Do not participate
+
+System -> Network Activity
+	Disable: Altium Cloud, Altium Vault, Publishing, Product Improvement
+
+Data Management -> Backup
+	Use Path = ALTIUM_HOME\AD16\Backup
+
+Data Management -> Local History
+	Add autosaved documents to history
+	Use Path = ALTIUM_HOME\AD16\History
+
+Data Management -> Templates
+	Use Path = ALTIUM_HOME\AD16\Templates\
+
+Data Management -> SVN Libraries
+	Use Path = ALTIUM_HOME\AD16\SVN
+
+Schematic -> General
+	Set default sheet size to "letter"
+
+PCB Editor -> General
+	Increase undo/redo limit
