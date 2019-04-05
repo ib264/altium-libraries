@@ -36,7 +36,7 @@ System -> Product Improvement
 	Do not participate
 
 System -> Network Activity
-	Disable: Altium Cloud, Data Management Server, Sending Crash Reports, Product Improvement
+	Disable: Altium Cloud, Sending Crash Reports, Product Improvement
 
 Data Management -> Version Control
 	Disable SVN - Subversion
