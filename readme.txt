@@ -58,6 +58,10 @@ Data Management -> SVN Libraries
 Schematic -> General
 	Set default sheet size to "letter"
 
+Schematic -> Grids
+	Change grid color to black and make "Visible Grid" = "Snap Grid"
+
 PCB Editor -> General
+	Change "Rotation Step" to 45
 	Increase undo/redo limit ??
 
